@@ -20,9 +20,9 @@ document.createElement("article" );
 </head>
 
 <body>
-<!--#include virtual="/content-menu-top.html" -->
-<!--#include virtual="/content-jwg.html" -->
-<!--#include virtual="/content-footer.html" -->
-<!--#include virtual="/content-analytics.html" -->
+<!--#include virtual="/JGC/content-menu-top.html" -->
+<!--#include virtual="content-jwg.html" -->
+<!--#include virtual="/JGC/content-footer.html" -->
+<!--#include virtual="/JGC/content-analytics.html" -->
 </body>
 </html>
