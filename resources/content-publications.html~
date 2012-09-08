@@ -1,0 +1,45 @@
+<div id="content">
+	<div id="column1">
+		<h1>research by topic</h1>
+ 		<ul>
+            <li><a href="#cr">College Readiness</a></li>
+            <li><a href="#clp">Community Level Planning</a></li>
+            <li><a href="#cs">Community Schools</a></li>
+            <li><a href="#ec">Early Childhood</a></li>
+            <li><a href="#hw">Health and Wellness</a></li>
+            <li><a href="#ma">Motivation and Achievement</a></li>
+            <li><a href="#vy">Vulnerable Youth</a></li>
+            </ul>
+    </div>
+    <div id="column2">
+    	<div id="content_headerbox">
+  			<img src="/images/clipart_resources.jpg"  />
+        	<h1>Publications Types</h1>
+		</div>
+        <!-- **** INSERT PAGE CONTENT HERE **** -->
+
+        <h5><a href="/resources/issues.html">Issue Briefs</a></h5> 
+	<p>Describes analysis with new information and policy implications.  Partners are involved in the process of drafting the issue brief. The target audience includes community partners, state and local decision-makers, and the public at large.</p>
+        <p>&nbsp;</p>
+        <h5><a href="/resources/snapshots.html">Snapshots</a></h5><p>Provides a condensed version of analysis and includes policy implications.</p>
+        <p>&nbsp;</p>
+        <h5><a href="/resources/policy.html">Policy Fact Sheets</a></h5><p>Focused on a particular policy or research topic (e.g., dropouts).  </p>
+        <p>&nbsp;</p>     
+        <h5><a href="/resources/reports.html">Reports</a></h5> <p>Pieces generally reporting on JGC research (often implementation or documentation research of a specific initiative) requested by a partner.  Reports differ from issue briefs in that the primary intended audience is the requesting entity and the report may not heavily situate the subject in the literature or have extensive policy implications in its conclusion.</p>
+        <p>&nbsp;</p>
+        <h5>Academic Papers</h5> <p>Provides significantly more research and methodological detail than other documents; these are not necessarily published.</p>
+            <ul>
+            <li><a href="/resources/journals.html">Journals</a></li>
+            <li><a href="/resources/conference.html">Conference Papers</li>
+            <li><a href="/resources/litreview.html">Literature Review</a></li>
+            </ul>
+        </ul>
+        <p>&nbsp;</p>        <p>&nbsp;</p>
+     </div>
+</div>
+
+		
+		<!-- content-wrap ends here -->
+		</div>
+      </div>
+

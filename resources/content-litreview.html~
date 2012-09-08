@@ -1,0 +1,33 @@
+<div id="content">
+	<div id="column1">
+		<h1>research by topic</h1>
+ 		<ul>
+            <li><a href="#cr">College Readiness</a></li>
+            <li><a href="#clp">Community Level Planning</a></li>
+            <li><a href="#cs">Community Schools</a></li>
+            <li><a href="#ec">Early Childhood</a></li>
+            <li><a href="#hw">Health and Wellness</a></li>
+            <li><a href="#ma">Motivation and Achievement</a></li>
+            <li><a href="#vy">Vulnerable Youth</a></li>
+            </ul>
+    </div>
+    <div id="column2">
+    	<div id="content_headerbox">
+  			<img src="/images/clipart_resources.jpg"  />
+        	<h1>Literature Review</h1>
+		</div>
+        <!-- **** INSERT PAGE CONTENT HERE **** -->
+
+        <p><a href="/resources/lit_review/Lit-Review_PlayWorks_091027.pdf">Child's Play: Why increasing opportunities to play and be active may improve students' academic and physical outcomes</a> (Oct 2009)</p>
+        <p>&nbsp;</p>        <p>&nbsp;</p>
+        <p>&nbsp;</p>        <p>&nbsp;</p>
+        <p>&nbsp;</p>        <p>&nbsp;</p>
+        <p>&nbsp;</p>        <p>&nbsp;</p>
+     </div>
+</div>
+
+		
+		<!-- content-wrap ends here -->
+		</div>
+      </div>
+    </div>

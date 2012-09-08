@@ -1,0 +1,16 @@
+	<div id="footer">
+		<span id="footer-left">Copyright &copy; 2012 John W. Gardner Center at Stanford University. All rights reserved. <br />
+			<a href="http://stanford.edu/site/terms.html">Terms of Use</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   <a href="http://adminguide.stanford.edu/63.pdf">Privacy policy</a>
+		</span>		
+		<span id="footer-right"><div id="socialbox">
+				<ul>
+                    <li><a href="#"><img  src="images/facebook.gif"> </a></li>
+                    <li><a href="http://twitter.com/gardnercenter"><img  src="images/twitter.gif"></a></li>
+                    <li><a href="#"><img  src="images/youtube.gif"></a></li>
+                </ul>
+            </div>
+		</span>
+			
+	</div>	
+<!-- wrap ends here -->		
+</div>	

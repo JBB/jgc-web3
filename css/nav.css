@@ -4,13 +4,12 @@
 
 #nav_container{
 	width: 920px;
-	height: 35px;
 	background-color: #ffffff;
 	z-index: 99;
-	padding: 0 10px 0 30px; /*to align with the logo in the header*/
+	padding: 5px 10px 5px 30px; /*to align with the logo in the header*/
 	margin: 0;
-	font-family: "Sabon LT Std";
-	font-size: 16px;
+	font-family: "Sabon LT Std",Georgia,Serif;
+	font-size: 15px;
 	position: relative;
 }
 #nav{
@@ -44,14 +43,14 @@
 	background-image: url(../images/bullet_menu_gray.gif);
 	background-position: left center;
 	background-repeat: no-repeat;
-	padding: 5px 20px 5px 20px;
+	padding: 5px 5px 5px 22px;
 
 	}
 #nav a.top_parent:hover{  /* rollover red square bullet for all the top level menu items */
 	background-image: url(../images/bullet_menu_red.gif);
 	background-position: left center;
 	background-repeat: no-repeat;
-	padding: 5px 20px 5px 20px;
+	padding: 5px 5px 5px 22px;
 	}
 	
 #nav a.parent, #nav a.parent:hover 	{   /* gray arrow for all second leven munu items that have child */
@@ -65,6 +64,7 @@
 	margin:0;
 	padding:0;
 	float:left;
+
 	}
 
 #nav li{
@@ -78,7 +78,7 @@
 	z-index:500;
 	top:auto;
 	display:none;
-	padding: 1em;
+	padding: 18px;
 	margin:-1em 0 0 -1em;
 	}
 

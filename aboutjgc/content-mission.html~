@@ -1,0 +1,33 @@
+<div id="content">
+	<div id="column1">
+	<!-- **** INSERT NEWS ITEMS HERE **** -->
+            	<h1>Featured Research</h1>
+		    	<ul>
+			<li>Driving Improvement in Californias Continuation High Schools</li>
+			<li>Truancy and Chronic Absence in Redwood City</li>
+			<li>Strengthening Recess Transforms the School Climate</li>
+			</ul>
+   		<p>&nbsp;</p><br /><img class="alignleft" src="/images/jwg.gif" />
+	</div>
+	<div id="column2">
+		<div id="content_headerbox">
+  			<img src="/images/stanford.jpg"  />
+        		<h1>Mission and Principles</h1></div>
+        		<!-- **** INSERT PAGE CONTENT HERE **** -->
+        		<h4>Mission</h4>
+			<p>The John W. Gardner Center for Youth and Their Communities (JGC) at Stanford University partners with
+ 			communities to develop leadership, conduct research and effect change to improve the lives of youth.</p>
+    			<p>&nbsp;</p>
+			<h4>Principles</h4>
+			<p>Our work is rooted in the principles of community youth development: a community only prospers when its young 				people prosper, and young people only flourish in a flourishing community. Specifically, the Center believes in 			working in deep partnership with communities; bridging the gap between research, practice and policy; generating 				actionable research; providing opportunities for undergraduate and graduate students to contribute to research 				projects; and ultimately seeking to inform both the community at hand and the broader field about critical
+   			findings from our work.</p>
+    			<p>&nbsp;</p>
+			<p>&nbsp;</p>
+      		</div>
+    	</div>
+</div>
+	
+<!-- content-wrap ends here -->
+</div>
+</div>		
+		

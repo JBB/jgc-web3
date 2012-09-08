@@ -1,0 +1,17 @@
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>JGC</title>
+<link rel="stylesheet" href="/css/style.css" type="text/css" />
+<link rel="stylesheet" href="/css/nav.css" type="text/css" />
+<script language="JavaScript" src="js/crumbs.js"></script>
+
+
+<!--[if lt IE 7]>
+<style type="text/css" media="screen">
+#nav{float:none;}
+body{behavior:url(css/csshover.htc); font-size:100%;}
+#nav ul li{float:left; width: 100%;}
+#nav a{height:1%;font:bold 0.7em/1.4em Sabon LT Std,serif;}
+</style>
+<![endif]-->
+

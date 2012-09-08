@@ -1,0 +1,20 @@
+
+        <table>
+            <tr >
+                <td colspan="2" rowspan="2"><div id="left_content"><img  src="images/main.jpg"><br /></div></td>
+                <td id="cellaligntop"><div id="right_content"><img  src="images/spotlight.gif"><br /><img  src="images/clipart_meeting.jpg">
+                    <br />there is a highlighted story here</div>
+            </tr>
+            <tr>
+                <td ><div id="right_content">
+                <img src="images/support_jgc.gif" ></div>
+            </tr> 
+            <tr>
+                <td><div id="calloutbox"><img  src="images/clipart_kids.jpg">this is the #1 call out box</div></td>
+                <td><div id="calloutbox"><img  src="images/clipart_kids.jpg">this is the #1 call out box</div></td>
+                <td  class="align-center"><img  src="images/jwg.gif"></td>
+            </tr>
+        </table>
+	</div>
+	<!-- content-wrap ends here -->
+</div>

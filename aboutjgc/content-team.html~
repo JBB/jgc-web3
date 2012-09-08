@@ -1,0 +1,165 @@
+<div id="content">
+	<div id="column1">
+ 	<!-- **** INSERT NEWS ITEMS HERE **** -->
+            	<h1>Featured Research</h1>
+            	<ul>
+		<li>Driving Improvement in Californias Continuation High Schools</li>
+		<li>Truancy and Chronic Absence in Redwood City</li>
+		<li>Strengthening Recess Transforms the School Climate</li>
+		</ul>
+   		<p>&nbsp;</p><br /><img class="alignleft" src="/images/jwg.gif" />
+	</div>
+      	<div id="column2">
+      		<div id="content_headerbox">
+  			<img src="/images/team.jpg"  />
+        		<h1>our team</h1>
+		</div>
+        		<!-- **** INSERT PAGE CONTENT HERE **** -->
+  			<img src="/images/staff.jpg"  />
+			  <p>&nbsp;</p>
+			  <p>&nbsp;</p>
+			<table>
+				<tr>
+				<td><h5><a href="contact_content.html">Milbrey McLaughlin</a></h5>
+				<p>Founding Director</p>
+				  <p>David Jacks Professor of Education & Public Policy,<br /> Stanford University</p>
+				  <p> (650) 723-9613    </p>
+				  <p>milbrey@stanford.edu</p>
+				  <p>&nbsp;</p>
+				  <h5> Amy Gerstein
+				    </h5>
+				  <p>Executive Director </p>
+				  <p>(650) 736-2064
+				    </p>
+				  <p>gerstein@stanford.edu
+				    
+				    </p>
+				  <p>&nbsp;</p>
+				 <h5>Kara Dukakis
+				    </h5>
+				  <p>Associate Director
+				    </p>
+				  <p>(650) 721-2971
+				    </p>
+				  <p>kdukakis@stanford.edu
+				    </p>
+				  <p>&nbsp;</p>
+				  <hr class="shorthr" />
+				   <p>&nbsp;</p>
+				  <h5>Jay Borenstein
+				    </h5>
+				  <p>Technology Developer & Advisor
+				    </p>
+				  <p>(650) 723-8242    </p>
+				  <p>borenstein@cs.stanford.edu    </p>
+				  <p>&nbsp;</p>
+				  <h5>Manuelito Biag    </h5>
+				  <p>Social Science Research Associate    </p>
+				  <p>(650) 724-2810    </p>
+				  <p>mdbiag@stanford.edu    </p>
+				  <p>&nbsp;</p>
+				  <h5>Graciela Borsato    </h5>
+				  <p>Social Science Research Associate    </p>
+				  <p>(650) 724-4673    </p>
+				  <p>gborsato@stanford.edu    </p>
+				  <p>&nbsp;</p>
+				  <h5>Sebastian Castrechini    </h5>
+				  <p>Senior Policy Analyst    </p>
+				  <p>(650) 721-1633    </p>
+				  <p>sebcast@stanford.edu    </p>
+				  <p>&nbsp;</p>
+				  <h5>Marianne Chatterton    </h5>
+				  <p>Finance Manager    </p>
+				  <p>(650) 723-1137    </p>
+				  <p>mfchatte@stanford.edu    </p>
+				  <p>&nbsp;</p>
+				  <h5>Larissa Collins    </h5>
+				  <p>Senior Administrative Associate    </p>
+				  <p>(650) 723-3099    </p>
+				  <p>larissa.collins@stanford.edu</p>
+				  <p>&nbsp;</p>
+				  <h5>Nina Duong </h5>
+				  <p>Project Coordinator </p>
+				  <p>(650) 498-4889 </p>
+				  <p>nduong@stanford.edu </p>
+				  <p>&nbsp;</p>
+				  <h5>Kristin Geiser </h5>
+				  <p>Social Science Research Associate </p>
+				  <p>(650) 498-4889 </p>
+				  <p>kgeiser@stanford.edu</p>
+				  <p>&nbsp;</p>
+				  <h5>Mary Hofstedt </h5>
+				  <p>Program Manager </p>
+				  <p>(650) 736-8594 </p>
+				  <p>hofstedt@stanford.edu </p>
+				  <p>&nbsp; </p></td>
+				  <td><h5>Ilana Horwitz      </h5>
+				    <p>Policy Analyst      </p>
+				    <p>(650) 721-5744      </p>
+				    <p>ihorwitz@stanford.edu      </p>
+				    <p>&nbsp;</p>
+				    <h5>Rebecca London      </h5>
+				    <p>Senior Researcher      </p>
+				    <p>(650) 736-6076      </p>
+				    <p>rlondon@stanford.edu      </p>
+				    <p>&nbsp;</p>
+				    <h5>Nancy Mancini      </h5>
+				    <p>Communications Manager
+				      nmancini@stanford.edu      </p>
+				    <p>&nbsp;</p>
+				    <h5>Leslie Patron      </h5>
+				    <p>Project Coordinator      </p>
+				    <p>lpatron@stanford.edu      </p>
+				    <p>&nbsp;</p>
+				    <h5>Carmen Rodríguez      </h5>
+				    <p>Administrative Associate      </p>
+				    <p>(650) 725-3699      </p>
+				    <p>carmenr1@stanford.edu      </p>
+				    <p>&nbsp;</p>
+				    <h5>Monika Sanchez      </h5>
+				    <p>Policy Analyst      </p>
+				    <p>(650) 721-5949      </p>
+				    <p>monikas1@stanford.edu      </p>
+				    <p>&nbsp;</p>
+				    <h5>Karen Strobel      </h5>
+				    <p>Senior Research Associate      </p>
+				    <p>strobe@stanford.edu      </p>
+				    <p>&nbsp;</p>
+				    <h5>Lisa Westrich      </h5>
+				    <p>Research & Policy Analyst      </p>
+				    <p>(650) 723-3364      </p>
+				      <p>westrich@stanford.edu</p>
+					 <p>&nbsp;</p>
+				  <hr class="shorthr" />
+				   <p>&nbsp;</p>
+				    <h5>Brandy Quinn      </h5>
+				    <p>Graduate Research Assistant
+				      bquinn1@stanford.edu      </p>
+				    <p>&nbsp;</p>
+				    <h5>Maribel Santiago      </h5>
+				    <p>Graduate Research Assistant
+				      maribels@stanford.edu      </p>
+				    <p>&nbsp;</p>
+				    <h5>Li Sha      </h5>
+				    <p>Graduate Research Assistant      </p>
+				    <p>lisha5@stanford.edu      </p>
+				    <p>&nbsp;</p>
+				    <h5>Jim Soland      </h5>
+				    <p>Graduate Research Assistant
+				      jsoland@stanford.edu      </p>
+				    <p>&nbsp;</p>
+				    <h5>Katie Stokes-Guinan      </h5>
+				    <p>Graduate Research Assistant
+				      kstokesguinan@stanford.edu      </p>
+				    <p>&nbsp;</p>
+				    <h5>Betsy Williams      </h5>
+				    <p>Graduate Research Assistant</p>
+				     <p>betsyw@stanford.edu</p></td>
+			</tr>
+		</table>
+      	</div>
+</div>
+<!-- content-wrap ends here -->
+</div>
+</div>
+
