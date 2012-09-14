@@ -225,7 +225,7 @@ position:absolute;
 right: 10px;;top:10px;
 }
 
-#socialbox ul li { display: inline; }
+#socialbox ul li { display: inline; float: right; }
 
 #socialbox ul li a
 {

@@ -1,3 +1,12 @@
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=17325526452";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
 <!-- wrap starts here -->	
 <div id="wrap">
 	<div id="header"></div>
@@ -62,11 +71,29 @@
         		</li>
 			</ul>
             <!-- search box -->	
+                <div id="cse" style="width: 200px; float: right; padding: 0px 10px 0px 5px;">Loading</div>
+                <script src="http://www.google.com/jsapi" type="text/javascript"></script>
+                <script type="text/javascript"> 
+                  google.load('search', '1', {language : 'en'});
+                  google.setOnLoadCallback(function() {
+                    var customSearchOptions = {};  var customSearchControl = new google.search.CustomSearchControl(
+                       '014221189792540735175:beufblrgl0a', customSearchOptions);
+                    customSearchControl.setResultSetSize(google.search.Search.SMALL_RESULTSET);
+                    var options = new google.search.DrawOptions();
+                    options.setAutoComplete(true);
+                    options.enableSearchboxOnly('http://jgc.stanford.edu/search.html','q',false,'?');
+                    customSearchControl.draw('cse', options);
+                  }, true);
+                </script>
+
+                <link rel="stylesheet" href="http://www.google.com/cse/style/look/default.css" type="text/css" />
+            <!---
             <form method="post" id="search" action="#">
-                <img src="images/icon_search.gif" />
+                <img src="/images/icon_search.gif" />
                 <input name="search_query" class="textbox" type="text" /> 
                 <input name="search" class="searchbutton" value="Search" type="submit" />
-			 </form>	
+	    </form>
+            --->	
 		</div> 	
 	</div> <!-- ends nav_container -->	
     <!-- mainframe starts -->

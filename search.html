@@ -1,0 +1,64 @@
+<!doctype html>  
+
+<!--[if lt IE 9]>
+<script type="text/javascript" >
+document.createElement("nav" );
+document.createElement("header" );
+document.createElement("footer" );
+document.createElement("section" );
+document.createElement("aside" );
+document.createElement("article" );
+</script>
+<![endif]-->
+<!--[if lt IE 7 ]> <html lang="en" class="no-js ie6"> <![endif]-->
+<!--[if IE 7 ]>    <html lang="en" class="no-js ie7"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="en" class="no-js ie8"> <![endif]-->
+<!--[if IE 9 ]>    <html lang="en" class="no-js ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html lang="en" class="no-js"> <!--<![endif]-->
+<head>
+  <!--#include virtual="/content-head.html" -->
+
+  <script>
+  var qs_search = null;
+  var url_array = decodeURI(document.URL).split('?');
+  if (url_array.length === 2) {
+    var qs_array = url_array[1].split('=');
+    if (qs_array[0] == 'q') {
+      var tmp = qs_array[1].split('&');
+      qs_search =  tmp[0];
+    }
+  }
+  </script>
+</head>
+
+<body>
+<!--#include virtual="/content-menu-top.html" -->
+
+<div id="jgc-content">
+  <div id="jgc-content-features">
+    <div class="jgc-content-feature-item-left">
+
+<div id="cse" style="width: 100%;">Loading</div>
+<script src="http://www.google.com/jsapi" type="text/javascript"></script>
+<script type="text/javascript"> 
+  google.load('search', '1', {language : 'en'});
+  google.setOnLoadCallback(function() {
+    var customSearchOptions = {};  var customSearchControl = new google.search.CustomSearchControl(
+      '014221189792540735175:beufblrgl0a', customSearchOptions);
+    customSearchControl.setResultSetSize(google.search.Search.SMALL_RESULTSET);
+    var options = new google.search.DrawOptions();
+    options.setAutoComplete(true);
+    customSearchControl.draw('cse', options);
+    if (qs_search) { customSearchControl.execute(qs_search);}
+  }, true);
+</script>
+<link rel="stylesheet" href="http://www.google.com/cse/style/look/default.css" type="text/css" />
+
+
+    </div>
+  </div>
+
+<!--#include virtual="/content-footer.html" -->
+<!--#include virtual="/content-analytics.html" -->
+</body>
+</html>
