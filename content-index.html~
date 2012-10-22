@@ -2,17 +2,19 @@
         <table>
             <tr >
                 <td colspan="2" rowspan="2"><div id="left_content"><img  src="images/main.jpg"><br /></div></td>
-                <td id="cellaligntop"><div id="right_content"><img  src="images/spotlight.gif"><br /><img  src="images/clipart_meeting.jpg">
-                    <br />there is a highlighted story here</div>
+                <td id="cellaligntop"><div id="right_content"><img  src="images/spotlight.gif"><br /><img  src="images/homepage_highlight3.jpg">
+                    <br /><p class="alignleft">JGC Partner Oakland Kids First Receives $25,000 Grant from Stanford Undergraduates</p><br><br>
+
+<p class="alignright"><a href="">Learn More >></a></p></div>
             </tr>
             <tr>
                 <td ><div id="right_content">
-                <img src="images/support_jgc.gif" ></div>
+                <p class="align-center"><img src="images/support_jgc.gif" ></p></div>
             </tr> 
             <tr>
-                <td><div id="calloutbox"><img  src="images/clipart_kids.jpg">this is the #1 call out box</div></td>
-                <td><div id="calloutbox"><img  src="images/clipart_kids.jpg">this is the #1 call out box</div></td>
-                <td  class="align-center"><img  src="images/jwg.gif"></td>
+                <td><div id="calloutbox"><img  class="alignleft" src="images/homepage_highlight1.jpg">New Findings Link Chronic Absenteeism to School Achievement <br><br><p class="alignright"><a href="">more >></a></p><br style="clear: both;" /></div></td>
+                <td><div id="calloutbox"><img  class="alignleft" src="images/homepage_highlight2.jpg">Organized play and recess can benefit the entire school experience<br><br><p class="alignright"><a href="">more >></a></p><br style="clear: both;" /></div></td>
+                <td  ><div id="right_content"><img  src="images/jwg.gif"></div></td>
             </tr>
         </table>
 	</div>
