@@ -70,10 +70,10 @@ h3 {
 	position: relative;
     clear:left;
     width: 960px;
-   	height: 70px;
+   	height: 90px;
 	margin: 0; 
 	padding:0;
-	background: #a4001d url(../images/logo_header.gif) no-repeat left;	
+	background: #af0e37 url(../images/logo_header1.gif) no-repeat left;	
 	-moz-border-radius-bottomright: 10px;
 	-moz-border-radius-bottomleft: 10px;
 	border-bottom-right-radius: 10px;
@@ -123,10 +123,11 @@ h3 {
 	width: 200px;
 	padding: 0px 10px;
 	float: right;
-	font-size:11px;
+	font-size:14px;
 	font-family: "News Gothic";
 	font-weight:bold;
 	text-align: left;
+	line-height:150%;
 	
 }	
 
@@ -142,17 +143,18 @@ h3 {
 /* call out boxes on the bottom of the index page*/
 #calloutbox{
 	widows: 300px;
-	height: 100px;
+	height: 110px;
 	background-color: #aca68d;
 	padding: 10px;
-	flaot: left;
+	float: left;
 	border-style: outset;
 	border-width: 1px;
 	border-color: #827252;
-	font-size:12px;
+	font-size:14px;
 	font-family: "News Gothic";
 	font-weight:bold;
 	vertical-align:text-top;
+	line-height:150%;
 }
 #calloutbox img { padding: 0 10px 0 0; }
 
