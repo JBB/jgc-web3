@@ -1,9 +1,9 @@
 
         <table>
             <tr >
-                <td colspan="2" rowspan="2"><div id="left_content"><img  src="images/main.jpg"><br /></div></td>
+                <td colspan="2" rowspan="2"><div id="left_content"><img align="left" src="images/homegraphic_loop.gif"><br /></div></td>
                 <td id="cellaligntop"><div id="right_content"><img  src="images/spotlight.gif"><br /><img  src="images/homepage_highlight3.jpg">
-                    <br /><p class="alignleft">JGC Partner Oakland Kids First Receives $25,000 Grant from Stanford Undergraduates</p>
+                    <br />JGC partner oakland kids first receives $25,000 Grant from Stanford undergraduates
 
 <p class="alignright"><a href="">Learn More >></a></p></div>
             </tr>
@@ -12,8 +12,8 @@
                 <p align="center"><img align="center" src="images/support_jgc.gif" ></p></div>
             </tr> 
             <tr>
-                <td><div id="calloutbox"><img  class="alignleft" src="images/homepage_highlight1.jpg">New Findings Link Chronic Absenteeism to School Achievement<br><p class="alignright"><a href="">Learn More >></a></p><br style="clear: both;" /></div></td>
-                <td><div id="calloutbox"><img  class="alignleft" src="images/homepage_highlight2.jpg">Organized play and recess can benefit the entire school experience<br><p class="alignright"><a href="">Learn More >></a></p><br style="clear: both;" /></div></td>
+                <td><div id="calloutbox"><img  class="alignleft" src="images/homepage_highlight1.jpg">New findings link chronic absenteeism to school achievement<br><p class="alignright"><a href="">Learn More >></a></p><br style="clear: both;" /></div></td>
+                <td><div id="calloutbox"><img  class="alignleft" src="images/homepage_highlight2.jpg">organized play and recess can benefit the entire school experience<br><p class="alignright"><a href="">Learn More >></a></p><br style="clear: both;" /></div></td>
                 <td  ><div id="right_content"><a href="/aboutjgc/jwg.html"><img  src="images/jwg.gif"></a></div></td>
             </tr>
         </table>
