@@ -16,7 +16,7 @@
 			
 <a href="/resources/jgc_brochure.pdf#page=5"><img src="images/homegraphic3.jpg" alt=""></a>
             
-           <a href="/aboutjgc/mission.html><img src="images/homegraphic4.jpg" alt=""></a>
+           <a href="/aboutjgc/mission.html"><img src="images/homegraphic4.jpg" alt=""></a>
 
 		</div>
 
@@ -52,6 +52,7 @@
 			effect: 'fade',
 			directionNavHide: false,
 			pauseOnHover: true,
+ 			pauseTime: 9000.
 			captionOpacity: 1,
 			prevText: '<',
 			nextText: '>'
